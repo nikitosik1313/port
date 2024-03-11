@@ -1,0 +1,40 @@
+body {
+    background-color: #000080;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+}
+h1 {
+    color: #ffffff;
+}
+h2{
+    color: #ffffff;
+}
+ul{
+    color: #ffffff;
+
+}
+p{color: #ffffff;
+}
+nav {
+    background-color: #ccff00;
+    position: fixed;
+    padding: 10px 0;
+    text-align: center;
+    z-index: 999;
+    width: 100%;
+    top: 0;
+    
+}
+nav a {
+    color: #000000;
+    text-decoration: none;
+    margin: 0 10px;
+}
+/* Стилізація основного контенту */
+.content {
+    margin: 20px;
+}
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ; /* Встановлення шрифту Arial або варіантів без засічок */
+}
+ol{color: #ffffff;}
